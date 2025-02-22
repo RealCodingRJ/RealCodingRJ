@@ -5,3 +5,6 @@
 <h4>I Started Coding Back in 2020</h4>
 
 <h4>I Didnt Get Introduced to Coding i Knew About it Until 2017</h4>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkcodingrj)](https://github.com/anuraghazra/github-readme-stats)
