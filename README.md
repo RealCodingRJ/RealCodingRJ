@@ -25,4 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj&hide_progress=true&theme=transparent)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[labs](https://wakatime.com/@d757a4f1-07d0-4d07-aee3-735ee7f976e7))](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[labs](https://wakatime.com/@RealCodingRJ))](https://github.com/anuraghazra/github-readme-stats)
