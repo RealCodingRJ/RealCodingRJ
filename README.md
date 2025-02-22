@@ -6,4 +6,6 @@
 
 <h4>I Didnt Get Introduced to Coding i Knew About it Until 2017</h4>
 
+<h4>I Have Been Sticking with Many Languages but I Have Found my Passion for C# or .Net</h4>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=transparent)
