@@ -8,4 +8,14 @@
 
 <h4>I Have Been Sticking with Many Languages but I Have Found my Passion for C# or .Net</h4>
 
+<h4></h4>
+
+<h4>I Have used the Following</h4>
+
+<li>Java</li>
+<li>C++</li>
+<li>JavaScript</li>
+
+<li>TypeScript</li>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=transparent)
