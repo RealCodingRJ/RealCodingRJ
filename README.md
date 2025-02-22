@@ -4,4 +4,4 @@
 
 <h4>I Started Coding Back in 2020/h4>
 
-<h4>I Didnt Get Introduced to Coding i Knew About it Until 2017</</h4>
+<h4>I Didnt Get Introduced to Coding i Knew About it Until 2017</h4>
