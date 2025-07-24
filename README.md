@@ -16,6 +16,10 @@
   <li>JS</li>
 </ol>
 
-My Discord is: #_dndeveloper, My Twitter: realcoder2023
+My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
+
+<h3>About Me....</h3>
+<p>I Started in Web Development in Covid Season Back in 2020 to 2022 And For All I Learned Like Any Beginner Jumping one to More Programming Languages</p>
+<p>That Didn't Get Me any Where</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css, )](https://skillicons.dev)
