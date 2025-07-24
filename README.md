@@ -1,5 +1,6 @@
 <h2>Welcome I am Ryan James or RealCodingRJ</h2>
 <p>I am a Software Developer I Mostly Use JavaScript | TypeScript For UI Web Apps</p>
+<p>I am a 25 Year Old Programmer</p>
 
 <p>My Mission Is to Make Software to Help and Make My Life Easier</p>
 <p>My Goal is Make Useful Servers and Make Better Products for The World of Software and People and Change the ways People Solve Problems</p>
