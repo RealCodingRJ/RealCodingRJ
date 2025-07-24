@@ -20,7 +20,8 @@
   <h3>Styke Languages I Use</h3>
 </ul>
 
-<li>SASS + SCSS</li>
+<li>SASS</li>
+<li>SCSS</li>
 
 My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 
