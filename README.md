@@ -16,11 +16,9 @@
   <li>JS</li>
 </ol>
 
-<ul>
-<h2>Styke Languages I Use</h2>
+<h2>Stye Languages I Use</h2>
 <li>SASS</li>
 <li>SCSS</li>
-</ul>
 
 My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 
