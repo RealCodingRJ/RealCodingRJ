@@ -16,9 +16,11 @@
   <li>JS</li>
 </ol>
 
-<h2>Stye Languages I Use</h2>
-<li>SASS</li>
-<li>SCSS</li>
+<ol>
+  <h2>Stye Languages I Use</h2>
+  <li>SASS</li>
+  <li>SCSS</li>
+</ol>
 
 <br/>
 
