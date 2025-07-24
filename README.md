@@ -22,4 +22,16 @@ My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 <p>I Started in Web Development in Covid Season Back in 2020 to 2022 And For All I Learned Like Any Beginner Jumping one to More Programming Languages</p>
 <p>That Didn't Get Me any Where</p>
 
+<h3>I Have Learned Before Choosing JS</h3>
+
+<ul>
+  <li>Java</li>
+  <li>C++</li>
+  <li>C#</li>
+  <li>Rust</li>
+  <li>Kotlin</li>
+  <li>Python</li>
+</ul>
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css, )](https://skillicons.dev)
