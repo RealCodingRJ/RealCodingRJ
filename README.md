@@ -6,13 +6,13 @@
 
 <p>These are what i use: </p>
 
-<ul>
+<ol>
   <li>React</li>
   <li>Vue</li>
   <li>Svelete</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JS</li>
-</ul>
+</ol>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css, )](https://skillicons.dev)
