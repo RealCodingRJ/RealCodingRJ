@@ -16,4 +16,6 @@
   <li>JS</li>
 </ol>
 
+My Discord is: #_dndeveloper, My Twitter: realcoder2023
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css, )](https://skillicons.dev)
