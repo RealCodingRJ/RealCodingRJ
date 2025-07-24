@@ -17,7 +17,7 @@
 </ol>
 
 <ul>
-  <h3>Styke Languages I Use</h3>
+  <h2>Styke Languages I Use</h2>
   <li>SASS</li>
   <li>SCSS</li>
 </ul>
