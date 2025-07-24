@@ -14,10 +14,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JS</li>
-</ol>
-
-<ol>
-<p>Stye Languages I Use</p>
   <li>SASS</li>
   <li>SCSS</li>
 </ol>
