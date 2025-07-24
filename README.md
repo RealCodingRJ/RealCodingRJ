@@ -2,7 +2,6 @@
 <p>I am a Software Developer I Mostly Use JavaScript | TypeScript For UI Web Apps</p>
 
 <p>My Mission Is to Make Software to Help and Make My Life Easier</p>
+<p>My Goal is Make Useful Servers and Make Better Products for The World of Software and People and Change the ways People Solve Problems</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css, )](https://skillicons.dev)
-
-<p>My Goal is Make Useful Servers and Make Better Products for The World of Software and People and Change the ways People Solve Problems</p>
