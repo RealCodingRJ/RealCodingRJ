@@ -24,6 +24,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=clion,visualstudio,vscode)](https://skillicons.dev)
 
+<h3>Operating Systems I Use</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,macos)](https://skillicons.dev)
+
+
 My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 
 <h3>About Me....</h3>
