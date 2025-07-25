@@ -47,4 +47,4 @@ My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 </ul>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,ts,docker,dotnet)](https://skillicons.dev)
