@@ -21,7 +21,7 @@
 <br/>
 
 <ul>
-  <l>IDE</l>
+  <li>IDE</li>
 </ul>
 
 [![My Skills](https://skillicons.dev/icons?i=clion,visualstudio,vscode)](https://skillicons.dev)
