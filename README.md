@@ -20,9 +20,7 @@
 
 <br/>
 
-<ul>
-  <li>IDE</li>
-</ul>
+<h3>IDE'S</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=clion,visualstudio,vscode)](https://skillicons.dev)
 
