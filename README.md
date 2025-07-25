@@ -20,6 +20,12 @@
 
 <br/>
 
+<ul>
+  <l>IDE</l>
+</ul>
+
+[![My Skills](https://skillicons.dev/icons?i=clion,visualstudio,vscode)](https://skillicons.dev)
+
 My Discord is: #_dndeveloper, My Twitter: realcoder2023</p>
 
 <h3>About Me....</h3>
