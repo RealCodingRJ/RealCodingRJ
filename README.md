@@ -7,10 +7,8 @@ Known Languages: JavaScript | TS | Little of C#
 
 Plan on Future 
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
 
-[![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj&layout=compact)
