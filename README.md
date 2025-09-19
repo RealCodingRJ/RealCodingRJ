@@ -1,5 +1,5 @@
 <h2>HELLO I am RealCodingRJ or Ryan J</h2> 
-<h3>I am a Rust Developer ort Programmer That Makes Stuff</h3>
+<h3>I am a Rust Developer Or Programmer That Makes COOL Stuff</h3>
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 Years Active: 2020 + Present
