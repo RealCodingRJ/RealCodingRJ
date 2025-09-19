@@ -14,7 +14,4 @@ Plan on Future
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj&show_icons=true&theme=radical&hide_progress=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj&show_icons=true&theme=radical)](https://github.com/realcodingrj/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=radical)
