@@ -8,6 +8,7 @@ Known Languages: JavaScript | TS | Little of C#
 Plan on Future 
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+
 [![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs)](https://skillicons.dev)
 
 
