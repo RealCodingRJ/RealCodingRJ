@@ -2,6 +2,7 @@
 <h3>I am a Rust Developer ort Programmer That Makes Stuff</h3>
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
+Years Active: 2020 + Present
 
 Known Languages: JavaScript | TS | Little of C#
 
