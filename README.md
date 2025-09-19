@@ -2,3 +2,5 @@
 <h3>I am a Rust Developer ort Programmer That Makes Stuff</h3>
 
 Known Languages: JavaScript | TS | Little of C#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=radical)
