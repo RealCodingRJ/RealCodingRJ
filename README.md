@@ -11,7 +11,8 @@ Plan on Future
 [![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs,windows)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcodingrj)](https://github.com/realcodingrj/github-readme-stats)
 
