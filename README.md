@@ -9,12 +9,12 @@ Known Languages: JavaScript | TS | Little of C#
 Languages I Use Currently
 
 <li>
-<br/>
-    Swift
-    Rust
-    TypeScript
-    JavaScript
-    C#
+    
+        Swift
+        Rust
+        TypeScript
+        JavaScript
+        C#
 </li>
 
 Plan on Future 
