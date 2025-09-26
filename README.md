@@ -6,6 +6,16 @@ Years Active: 2020 + Present
 
 Known Languages: JavaScript | TS | Little of C#
 
+Languages I Use Currently
+
+<li>
+    Swift
+    Rust
+    TypeScript
+    JavaScript
+    C#
+</li>
+
 Plan on Future 
 
 
