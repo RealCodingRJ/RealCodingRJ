@@ -8,8 +8,8 @@ Known Languages: JavaScript | TS | Little of C#
 
 Languages I Use Currently
 
-<br/>
 <li>
+<br/>
     Swift
     Rust
     TypeScript
