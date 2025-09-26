@@ -16,7 +16,9 @@ Known Languages: JavaScript | TS | Little of C#
         JavaScript
         C#
 
-Plan on Future 
+<h3>Plan on Future</h3>
+
+<h2>Future Planning</h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs,windows)](https://skillicons.dev)
