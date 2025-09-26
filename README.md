@@ -10,16 +10,13 @@ Known Languages: JavaScript | TS | Little of C#
 
 <h3>Languages I Use Currently</h3>
         
-Swift
-Rust
-TypeScript
-JavaScript
-C#
-
-<h3>Plan on Future</h3>
-
-<h3>Future Planning</h3>
-
+        Swift
+        Rust
+        TypeScript
+        JavaScript
+        C#
+        
+        <h3>Plan on Future</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs,windows)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
