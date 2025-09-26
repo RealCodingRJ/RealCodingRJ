@@ -10,11 +10,11 @@ Known Languages: JavaScript | TS | Little of C#
 
 <h3>Languages I Use Currently</h3>
         
-        Swift
-        Rust
-        TypeScript
-        JavaScript
-        C#
+Swift
+Rust
+TypeScript
+JavaScript
+C#
 
 <h3>Plan on Future</h3>
 
