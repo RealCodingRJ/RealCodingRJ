@@ -8,7 +8,7 @@ Known Languages: JavaScript | TS | Little of C#
 
 
 
-<h2>Languages I Use Currently</h2>
+<h3>Languages I Use Currently</h3>
         
         Swift
         Rust
@@ -18,7 +18,7 @@ Known Languages: JavaScript | TS | Little of C#
 
 <h3>Plan on Future</h3>
 
-<h2>Future Planning</h2>
+<h3>Future Planning</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,rust,ts,cs,windows)](https://skillicons.dev)
