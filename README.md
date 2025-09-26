@@ -6,7 +6,7 @@ Years Active: 2020 + Present
 
 Known Languages: JavaScript | TS | Little of C#
 
-<li>
+<li style="list-style: none">
 
 Languages I Use Currently
         
