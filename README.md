@@ -8,7 +8,7 @@ Known Languages: JavaScript | TS | Little of C#
 
 Languages I Use Currently
 
-\n
+<br/>
 <li>
     Swift
     Rust
