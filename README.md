@@ -2,4 +2,3 @@
 
 <h3>I am a Frontend Developer Working on Mainly PulseTrack </h3>
 
-### for Developers to  Check their Issues
