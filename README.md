@@ -6,7 +6,7 @@
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
    <h4>I Currently Have Experience with The Following</h4>
    
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows)](https://skillicons.dev)     
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,express)](https://skillicons.dev)     
    
    <h3 align="left">1: NextJS</h3>
    <h3 align="left">2: ExpressJS</h3>
