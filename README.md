@@ -17,7 +17,7 @@
    
    <h4>These Are the Languages I Have Used...</h4>
    
-   [![My Skills](https://skillicons.dev/icons?i=cpp,vs,java,kotlin,swift astro,c,discord.js,dotnet,express,flask,go,md,php,postman,py,react,rust,svelte )](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=cpp,vs,java,kotlin,swift astro,c,discord.js,dotnet,express,flask,go,md,php,postman,py,react,rust,svelte)](https://skillicons.dev)
 
   
 
