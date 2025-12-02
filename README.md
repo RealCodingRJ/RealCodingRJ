@@ -8,9 +8,9 @@
    
    [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git)](https://skillicons.dev)     
 
-   <p>I am Not the Best Developer But I am Building Web Apps for Fun to Learnr</p>
+   <h4>I am Not the Best Developer But I am Building Web Apps for Fun to Learnr</h4>
 
-   <p>Continue to Learn and Master my Craft As a Web Developer | Develppe</p>
+   <h4>Continue to Learn and Master my Craft As a Web Developer | Develppe</h4>
  
  
 </div>
