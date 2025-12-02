@@ -1,7 +1,7 @@
 <div align="center">
 
-    
-This is <span style="color: red">written in red</span>.
+This is *red*{: style="color: red"}.
+
  
 <h2>WELCOME I am RealCodingRJ or Ryan James</h2>
   
