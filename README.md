@@ -14,7 +14,7 @@
    <h3 align="left">5: Prisma</h3>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts, nextjs,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css)](https://skillicons.dev)
 
  
 </div>
