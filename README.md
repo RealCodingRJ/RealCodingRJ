@@ -11,6 +11,6 @@
 
   <ol>
 
-   1: NextJS
+    NextJS
    
   </ol>
