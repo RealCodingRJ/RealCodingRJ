@@ -8,10 +8,9 @@
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
    <h4>I Currently Have Experience with The Following</h4>
 
-   [![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,swift astro,c)](https://skillicons.dev)
-  
    
-
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
+  
    <h4>Tools I Have Used</h4>
    
    [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple,rider,)](https://skillicons.dev)
