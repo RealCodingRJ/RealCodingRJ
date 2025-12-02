@@ -6,20 +6,18 @@
    <h3><a href="https://github.com/aaronjager2000/PulseTrack">Project What We Are Building witb Teamates</a></h3>
   
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
-   <h4>I Currently Have Experience with The Following</h4>
+   <h4>I Currently Have Experience with The Following</h4> 
 
-
-   
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
-
-   
-   [![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)     
   
    <h4>Tools I Have Used</h4>
-   
+     
    [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple,rider,)](https://skillicons.dev)
 
    [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
+
+   <h4>Languages I Have Used in the Past</h4>
+   
+   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,rust,dotnet,py,go,java,kotlin,nodejs,php,react,svelte,swift)](https://skillicons.dev)     
 
    <h4>I am Not the Best Developer But I am Building Web Apps for Fun to Learnr</h4>
 
