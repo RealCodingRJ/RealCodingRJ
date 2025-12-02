@@ -8,7 +8,10 @@
 
   <h4>I Currently Have Experience with The Following</h4>
 
-   [number]. write_here
+  <ol>
 
+   1: NextJS
+   
+  </ol>
       
 </div>
