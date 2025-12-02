@@ -13,7 +13,7 @@
    <h3 align="left">4: TypeScript</h3>   
    <h3 align="left">5: Prisma</h3>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealCodingRJ&hide=javascript,css,scss,html&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealCodingRJ=javascript,css,scss,html&theme=tokyonight)
 
 
  
