@@ -7,9 +7,9 @@
    <h4>I Currently Have Experience with The Following</h4>
       
   
-   <h3 align="left">NextJS</h3>
-   <h3 align="left">ExpressJS</h3>
-   <h3 align="left">Setting Up a new NextJS Applicatoon</h3>
+   <h3 align="left">1: NextJS</h3>
+   <h3 align="left">2: ExpressJS</h3>
+   <h3 align="left">3: Setting Up a new NextJS Applicatoon</h3>
      
 
  
