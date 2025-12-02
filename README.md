@@ -9,8 +9,8 @@
    
    <ol>
 
-   <h2>NextJS</h2>
-   <h2>ExpressJS</h2>
+   <h3>NextJS</h3>
+   <h3>ExpressJS</h3>
    <h3>Setting Up a new NextJS Applicatoon</h3>
      
    </ol>
