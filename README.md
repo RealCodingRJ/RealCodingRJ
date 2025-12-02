@@ -7,6 +7,6 @@
    <p>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</p>
 
   <h4>I Currently Have Experience with The Following</h4>
-     - HTML 
+  * HTML 
       
 </div>
