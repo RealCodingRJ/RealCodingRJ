@@ -1,9 +1,6 @@
 <div align="center style="color:blue"">
     
   <h2 color="red">WELCOME I am RealCodingRJ or Ryan James</h2>
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-
   
   <h3>I am a Frontend Developer Working on Mainly PulseTrack </h3>
 
