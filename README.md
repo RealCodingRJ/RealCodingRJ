@@ -12,9 +12,10 @@
    <h3 align="left">3: Setting Up a new NextJS Applicatoon</h3>
    <h3 align="left">4: TypeScript</h3>   
    <h3 align="left">5: Prisma</h3>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show_icons=true&theme=transparent)
+
  
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodingrj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
