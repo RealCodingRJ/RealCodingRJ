@@ -10,11 +10,12 @@
 
   
    <h4>Tools I Have Used</h4>
-     
-   [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple,rider,)](https://skillicons.dev)
+   
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)
 
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
-
+   <h4>IDE OR Text Editors I Have Used in the 6 Years I Have Been Coding</h4>
+   [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple,rider,)](https://skillicons.dev) 
+  
    <h4>Languages I Have Used in the Past</h4>
    
    [![My Skills](https://skillicons.dev/icons?i=cpp,cs,rust,dotnet,py,go,java,kotlin,nodejs,php,react,svelte,swift)](https://skillicons.dev)     
