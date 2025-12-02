@@ -6,11 +6,12 @@
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
    <h4>I Currently Have Experience with The Following</h4>
       
-</div>
+  
+   <ol>
 
-
-  <ol>
-
-    NextJS
+      NextJS
    
-  </ol>
+   </ol>
+
+ 
+</div>
