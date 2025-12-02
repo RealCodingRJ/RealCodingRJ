@@ -9,7 +9,7 @@
    <h4>I Currently Have Experience with The Following</h4>
 
    
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
+   [![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)     
   
    <h4>Tools I Have Used</h4>
    
