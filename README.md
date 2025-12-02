@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  
    <h2>WELCOME I am RealCodingRJ or Ryan James</h2>
    <h2>I am a Frontend Developer Working on Mainly PulseTrack </h3>
