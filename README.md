@@ -13,7 +13,7 @@
    <h3 align="left">4: TypeScript</h3>   
    <h3 align="left">5: Prisma</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealCodingRJ&show_icons=true&theme=radical)
+![RealCodingRJ'S GitHub stats](https://github-readme-stats.vercel.app/api?username=RealCodingRJ&show_icons=true&theme=radical)
 
 
 
