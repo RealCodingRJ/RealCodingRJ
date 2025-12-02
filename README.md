@@ -1,4 +1,4 @@
-<div align="center style="color:blue"">
+<div align="center">
     
   <h2 color="red">WELCOME I am RealCodingRJ or Ryan James</h2>
   
