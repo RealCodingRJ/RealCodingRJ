@@ -9,9 +9,9 @@
    
    <ol>
 
-      1: NextJS
-      2: ExpressJS
-      3: Setting Up a new NextJS Applicatoon
+   <h2>NextJS</h2>
+   <h2>ExpressJS</h2>
+   <h3>Setting Up a new NextJS Applicatoon</h3>
      
    </ol>
 
