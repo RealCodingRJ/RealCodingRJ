@@ -13,9 +13,6 @@
    <h3 align="left">3: Setting Up a new NextJS Applicatoon</h3>
    <h3 align="left">4: TypeScript</h3>   
    <h3 align="left">5: Prisma</h3>
-
- <img src="/>
- 
 </div>
 
 
