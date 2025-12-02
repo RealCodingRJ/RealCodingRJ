@@ -11,13 +11,13 @@
 
    <h4>Tools I Have Used</h4>
    
-   [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=clion,docker,figma,idea,ps,pr,visualstudio,vscode,webstorm,apple,rider,)](https://skillicons.dev)
    
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro)](https://skillicons.dev)     
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio,)](https://skillicons.dev)     
    
    <h4>These Are the Languages I Have Used...</h4>
    
-   [![My Skills](https://skillicons.dev/icons?i=cpp,vs,java,kotlin,swift astrom  )](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=cpp,vs,java,kotlin,swift astro,c,discord.js,dotnet,express,flask,go,md,php,postman,py,react,rust,svelte )](https://skillicons.dev)
 
   
 
