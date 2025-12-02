@@ -15,7 +15,7 @@
    
    [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows,html,npm,mongodb,git,astro,androidstudio)](https://skillicons.dev)     
   
-   [![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,swift astro,c,discord.js,dotnet,express,flask,go,md,php,postman,py,react,rust,svelte)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,swift astro,c,discord.js)](https://skillicons.dev)
 
   
 
