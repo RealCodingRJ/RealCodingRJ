@@ -5,17 +5,14 @@
 
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
    <h4>I Currently Have Experience with The Following</h4>
-      
-  
+   
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows)](https://skillicons.dev)     
+   
    <h3 align="left">1: NextJS</h3>
    <h3 align="left">2: ExpressJS</h3>
    <h3 align="left">3: Setting Up a new NextJS Applicatoon</h3>
    <h3 align="left">4: TypeScript</h3>   
    <h3 align="left">5: Prisma</h3>
-
-
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,css,nodejs,vscode,windows)](https://skillicons.dev)
-
  
 </div>
 
