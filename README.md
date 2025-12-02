@@ -7,11 +7,13 @@
    <h4>I Currently Have Experience with The Following</h4>
       
    
-    <ol>
- 
-       NextJS
-    
-    </ol>
+   <ol>
+
+      1: NextJS
+      2: ExpressJS
+      3: Setting Up a new NextJS Applicatoon
+     
+   </ol>
 
  
 </div>
