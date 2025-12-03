@@ -4,6 +4,8 @@
    <h2>I am a Frontend Developer Working on Mainly PulseTrack </h3>
 
    <h3><a href="https://github.com/aaronjager2000/PulseTrack">Project What We Are Building witb Teamates</a></h3>
+
+   Currently Learninf NestJS with TypeScript with Custom Types for getting better at TypeScript Types
   
    <h3>I am Currently Working With a Team of Great Developers That Can Help Me Learn and Continue Learning</h3>
    <h4>I Currently Have Experience with The Following</h4> 
