@@ -1,7 +1,7 @@
 <div>
  
    <h2>WELCOME I am RealCodingRJ or Ryan James</h2>
-   <h2>I am a Frontend Developer Working on Mainly PulseTrack </h3>
+   <h2>I am a Frontend Developer Working on Mainly My Own Projects </h3>
 
    Currently Learninf NestJS with TypeScript with Custom Types for getting better at TypeScript Types
   
